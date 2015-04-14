@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inputData>
+	<Fibonacci id="1001">
+		<firstElement>0</firstElement>
+		<secondElement>1</secondElement>
+		<totalElement>10</totalElement>
+	</Fibonacci>
+</inputData>
